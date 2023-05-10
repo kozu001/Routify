@@ -4,6 +4,8 @@ Features: Routine Creator: Users can create and customize their daily routines, 
 
 Reminders and Notifications: Routify sends reminders and notifications to help users stay on track with their routines and increase productivity. Insights and Analytics: The app offers insights and analytics on users' habits and routines, helping them to identify areas for improvement and optimize their daily schedules for maximum effectiveness.
 
+Second update***
 Gamification: Routify includes gamification elements such as badges or rewards for achieving specific milestones, helping users stay motivated and committed to their productivity goals. Community Features: The app connects users with other like-minded individuals who can support and motivate each other, creating a community of productivity enthusiasts.
+***
 
 Design: The Routify app has a clean and user-friendly design, with a simple and intuitive interface. The home screen displays a summary of the user's routine for the day, with options to view and edit the routine, access insights and analytics, and connect with the community. Users can customize their routines by adding or removing tasks, setting reminders and notifications, and adjusting the timing and duration of each task. The app also offers a range of customization options, such as choosing different themes or backgrounds. Overall, Routify is designed to help users optimize their daily routines and increase productivity, with personalized recommendations, insights, and community features to keep them motivated and on track.

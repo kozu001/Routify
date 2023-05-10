@@ -7,5 +7,7 @@ Reminders and Notifications: Routine Mate sends reminders and notifications to h
 
 Design: The Routine Mate app has a clean and user-friendly design, with a simple and intuitive interface. The home screen displays a summary of the user's routine for the day, with options to view and edit the routine, access insights and analytics, and connect with the community. Users can customize their routines by adding or removing tasks, setting reminders and notifications, and adjusting the timing and duration of each task. The app also offers a range of customization options, such as choosing different themes or backgrounds. Overall, Routine Mate is designed to help users optimize their daily routines and increase productivity, with personalized recommendations, insights, and community features to keep them motivated and on track.
 ***
-Second update***
+
+Second update
+
 Gamification: Routine Mate includes gamification elements such as badges or rewards for achieving specific milestones, helping users stay motivated and committed to their productivity goals. Community Features: The app connects users with other like-minded individuals who can support and motivate each other, creating a community of productivity enthusiasts.
